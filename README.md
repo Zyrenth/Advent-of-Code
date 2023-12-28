@@ -1,4 +1,4 @@
-# Advent-of-Code
+# Advent-of-Code (Archived)
 This repo contains the answers for Advent of Code 2023.
 
 # Why Javascript and not Typescript?
